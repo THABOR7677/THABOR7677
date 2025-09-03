@@ -41,7 +41,7 @@
 <!-- Power BI -->
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/>
 <!-- UiPath -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/UiPath_Logo.svg" alt="UiPath" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="40" height="40"/>
 
 </p>
 
