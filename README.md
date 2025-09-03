@@ -40,8 +40,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
 <!-- Power BI -->
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" width="40" height="40"/>
-<!-- UiPath -->
-<img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="40" height="40"/>
+<!-- Uipath -->
+<img src="https://raw.githubusercontent.com/UiPath/angular-components/master/logo.png" width="135" />
+
 
 </p>
 
